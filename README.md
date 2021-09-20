@@ -13,7 +13,7 @@
   <img align="center" alt="greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="greg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://discord.com/channels/468199998362877963/888974008501014589/889477454283026442">
+  <img align="right" alt="Rafa-yoda" src="https://media2.giphy.com/media/GB3MktbhWQPW8/giphy.gif">
 </div>
   
   ##
