@@ -1,7 +1,7 @@
 ### Oi eu sou o Greg 👋
 <div>
   <a href="https://github.com/greggregk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=greggregk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=greggregk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greggregk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -13,7 +13,7 @@
   <img align="center" alt="greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="greg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media2.giphy.com/media/GB3MktbhWQPW8/giphy.gif">
+  <img align="right" img height="180em" alt="Rafa-yoda" src="https://media2.giphy.com/media/GB3MktbhWQPW8/giphy.gif">
 </div>
   
   ##
