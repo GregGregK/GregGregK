@@ -25,14 +25,15 @@ Intersted in solving problems and providing answers.
 </div>
 
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge)
 ![Data Engineer](https://img.shields.io/badge/Data_Engineer-black?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-black?style=for-the-badge)
+
 </div>
-<br/>
 
 ## GitHub Stats
 <div align="center">
