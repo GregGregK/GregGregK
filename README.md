@@ -18,7 +18,7 @@
 
 ## About
 
-Data Engineer focused on building ETL pipelines and analytical dashboards.
+Data Engineer focused on building ETL pipelines and analytical dashboards, with hands-on experience in Oracle environments (ODI, OAS, SQL) and government financial systems. Postgraduate degree in Data Science.
 
 <br/>
 
@@ -41,12 +41,12 @@ Data Engineer focused on building ETL pipelines and analytical dashboards.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GregGregK&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-multiuser.vercel.app/api?username=GregGregK&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com?user=GregGregK&theme=tokyonight" alt="GitHub Streak" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregGregK&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?username=GregGregK&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 <br/><br/>
 
