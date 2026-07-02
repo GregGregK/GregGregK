@@ -18,7 +18,7 @@
 
 ## About
 
-Data Engineer focused on building ETL pipelines and analytical dashboards, with hands-on experience in Oracle environments (ODI, OAS, SQL) and government financial systems. Postgraduate degree in Data Science.
+Data Engineer focused on building ETL pipelines and analytical dashboards.
 
 <br/>
 
