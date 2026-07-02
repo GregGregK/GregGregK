@@ -15,8 +15,10 @@
 
 ## About
 </div>
+<div align="center">
+  Intersted in solving problems and providing answers.
+</div>
 
-Intersted in solving problems and providing answers.
 <br/>
 
 <div align="center">
